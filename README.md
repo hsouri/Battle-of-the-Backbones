@@ -19,3 +19,19 @@ For each vision task, please refer to its respective repository for detailed doc
 
 :star2: Image Retrieval: [BoB-Retrieval](https://github.com/hsouri/bob-retrieval)
 
+## Citation
+
+If you find this useful in your research, please cite our paper:
+
+```
+@misc{goldblum2023battle,
+      title={Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks}, 
+      author={Micah Goldblum and Hossein Souri and Renkun Ni and Manli Shu and Viraj Prabhu and Gowthami Somepalli and Prithvijit Chattopadhyay and Mark Ibrahim and Adrien Bardes and Judy Hoffman and Rama Chellappa and Andrew Gordon Wilson and Tom Goldstein},
+      year={2023},
+      eprint={2310.19909},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
